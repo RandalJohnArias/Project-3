@@ -1,6 +1,7 @@
 # Project-3
 
-## randaljohnarias.github.io/Project-3/
+## Link
+[Password Generator](randaljohnarias.github.io/Project-3/)
 
 ! [Screenshot](Screenshot.png)
 
